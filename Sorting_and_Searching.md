@@ -10,7 +10,7 @@ Selection sort	|O(n2)	|O(1)
 Quicksort	|O(nlog(n))	|O(log(n))
 Mergesort	|O(nlog(n))	|O(n)
 Heapsort	|O(nlog(n))	|O(1)
-Timesort(python) |O(nlogn) |O(n)
+Timsort(python) |O(nlogn) |O(n)  in-place 
 非比较soring
 Counting sort| O(n + k)	|O(k)
 - searching
